@@ -30,7 +30,7 @@ DEFAULT_FEEDS = {
     "EmergingThreats": "https://rules.emergingthreats.net/blockrules/compromised-ips.txt",
     "Feodo": "https://feodotracker.abuse.ch/downloads/ipblocklist.txt",
     "Greensnow": "https://blocklist.greensnow.co/greensnow.txt",
-    "MalSilo": "https://malsilo.gitlab.io/feeds/dumps/ip.txt",
+    "MalSilo": "https://malsilo.gitlab.io/feeds/dumps/ip_list.txt",
     "ThreatView": "https://threatview.io/Downloads/IP-High-Confidence-Feed.txt",
 }
 
